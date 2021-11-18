@@ -6,7 +6,7 @@
 - N'hésitez pas à me contacter ici ou via mon Linkedin https://www.linkedin.com/in/fanny-andreo
 - Au plaisir d'échanger
 
-   <i>Le 18 novembre 2021</i>
+  <i>Le 18 novembre 2021</i>
 
 
 
