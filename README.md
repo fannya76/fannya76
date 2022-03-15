@@ -1,12 +1,14 @@
  # 👋 Bonjour, je suis Fanny
 
-- 👀 Je suis en reconversion professionnelle, je viens de valider une formation en Développement Web et Mobile 
-- 🌱 Je continue mon apprentissage tout en cherchant une entreprise pour une alternance d'un à trois ans.
-- 💞️ Je suis attirée par le développement d'applications (web et/ou mobile) mais je suis ouverte à d'autres voies.
+- 👀 Je suis en reconversion professionnelle dans le développement informatique
+- 🌱 Je travaille depuis décembre 2021 sur un projet en Python pour l'entreprise EASY SAV
+- dans le cadre d'un Incubateur de Compétences en partenariat avec l'école Metz Numeric School
+- 💞️ Je monte en compétences en Data Science (Reconnaissance d'image avec Tesseract, manipulation de données avec panda, camelot,...)
 - N'hésitez pas à me contacter ici ou via mon Linkedin https://www.linkedin.com/in/fanny-andreo
+- Je serais disponible pour prendre un poste à partir de juillet 2022
 - Au plaisir d'échanger
 
-  <i>Le 18 novembre 2021</i>
+  <i>Le 13 mars 2022</i>
 
 
 
