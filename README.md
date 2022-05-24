@@ -1,4 +1,4 @@
- # 👋 Bonjour, je suis Fanny
+ # 👋 Bonjour ! C'est Fanny,
 
 - 👀 Je suis en reconversion professionnelle dans le développement informatique
 - 🌱 Je travaille depuis décembre 2021 sur un projet en Python et en PHP pour l'entreprise EASY SAV
