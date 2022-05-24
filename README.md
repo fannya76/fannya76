@@ -6,7 +6,7 @@
 - 💞️ Je monte en compétences en Reconnaissance d'image avec Tesseract, en Manipulation de Données avec panda, camelot,...
 - Consultez le dépôt 'Vues Dynamiques' pour plus de détails
 - N'hésitez pas à me contacter ici ou via mon Linkedin https://www.linkedin.com/in/fanny-andreo
-- Je serais disponible pour prendre un poste à partir de juillet 2022
+- Je serais disponible pour une prise de poste à partir de juillet 2022
 - Au plaisir d'échanger
 
   <i>Le 13 mars 2022</i>
