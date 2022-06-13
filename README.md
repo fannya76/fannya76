@@ -1,11 +1,11 @@
  # 👋 Bonjour ! C'est Fanny,
 
-C'est avec enthousiasme que je poursuis une reconversion professionnelle dans le développement informatique
-J'ai validé la formation Dévelopeur Web et Web Mobile chez Metz Numeric School en 2021
+C'est avec enthousiasme que je poursuis une reconversion professionnelle dans le développement informatique.  
+J'ai validé la formation Développeur Web et Web Mobile chez Metz Numeric School en 2021
 
 🌱 En 2022, j'ai travaillé en autonomie pendant 6 mois sur un projet en Python et PHP pour l'entreprise EASY SAV
-- Je me suis auto-formée en ligne sur le langage Python (formation Udemy)
-- 💞️ Je suis montée en compétences en Reconnaissance d'image avec Tesseract,
+💞️ Je me suis auto-formée en ligne sur le langage Python (formation Udemy)
+- Je suis montée en compétences en Reconnaissance d'image avec Tesseract,
 - En Extraction et Manipulation de Données avec panda et camelot,
 - En Création de PDF avec weasyprint,
 - En Génération d'Histogrammes avec matplotlib,
