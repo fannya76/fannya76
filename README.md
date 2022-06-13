@@ -1,15 +1,27 @@
  # 👋 Bonjour ! C'est Fanny,
 
-- Je suis en reconversion professionnelle dans le développement informatique
-- 🌱 Je travaille depuis décembre 2021 sur un projet en Python et en PHP pour l'entreprise EASY SAV
-- dans le cadre d'un Incubateur de Compétences en partenariat avec l'école Metz Numeric School
-- 💞️ Je monte en compétences en Reconnaissance d'image avec Tesseract, en Manipulation de Données avec panda, camelot,...
-- 👀 Consultez le dépôt 'Vues Dynamiques' pour plus de détails
-- N'hésitez pas à me contacter ici ou via mon Linkedin https://www.linkedin.com/in/fanny-andreo
-- Je serais disponible pour une prise de poste à partir de juillet 2022
+C'est avec enthousiasme que je poursuis une reconversion professionnelle dans le développement informatique
+J'ai validé la formation Dévelopeur Web et Web Mobile chez Metz Numeric School en 2021
+
+🌱 En 2022, j'ai travaillé en autonomie pendant 6 mois sur un projet en Python et PHP pour l'entreprise EASY SAV
+- Je me suis auto-formée en ligne sur le langage Python (formation Udemy)
+- 💞️ Je suis montée en compétences en Reconnaissance d'image avec Tesseract,
+- En Extraction et Manipulation de Données avec panda et camelot,
+- En Création de PDF avec weasyprint,
+- En Génération d'Histogrammes avec matplotlib,
+- En Gestion des chemins et des fichiers avec pathlib,
+- En Gestion des erreurs,
+- Et également en consommation d'API en PHP Symfony
+
+Je recherche actuellement un poste en développement d'applications en PHP ou Python
+mais aussi sur toutes autres technologies sur lesquelles je pourrais m'auto-former 
+ou me former en interne au sein de votre entreprise.
+
+N'hésitez pas à me contacter ici ou via mon Linkedin https://www.linkedin.com/in/fanny-andreo
+
 - Au plaisir d'échanger
 
-  <i>Le 13 mars 2022</i>
+  <i>Le 13 juin 2022</i>
 
 
 
