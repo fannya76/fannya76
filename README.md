@@ -1,4 +1,4 @@
- # 👋 Bonjour ! C'est Fanny,
+ # 👋 Bonjour ! C'est Fanny
 
 C'est avec enthousiasme que je poursuis une reconversion professionnelle dans le développement informatique !  
 J'ai validé la formation Développeur Web et Web Mobile chez Metz Numeric School en 2021
