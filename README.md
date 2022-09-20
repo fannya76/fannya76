@@ -14,7 +14,7 @@ J'ai validé la formation Développeur Web et Web Mobile chez Metz Numeric Schoo
 - Et également en consommation d'API en PHP Symfony
 
 Je recherche actuellement un poste en développement d'applications en PHP ou Python  
-mais aussi sur toutes autres technologies sur lesquelles je pourrais m'auto-former.  
+mais aussi sur toutes autres technologies sur lesquelles je pourrais me former.  
 
 N'hésitez pas à me contacter ici ou via mon Linkedin https://www.linkedin.com/in/fanny-andreo
 
